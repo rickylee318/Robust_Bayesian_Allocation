@@ -2,7 +2,7 @@
 
 ### Motivation
 
-- Typically, asset allocation is a two-step approach: estimate market distribution ($\mu$, $\Sigma$), and then perform optimization for asset allocation w.
+- Typically, asset allocation is a two-step approach: estimate market distribution (\mu, $\Sigma$), and then perform optimization for asset allocation w.
 
 - However, the second step is very sensitive due to input parameters $(\mu, \Sigma)$.
 
