@@ -11,4 +11,4 @@
 - Bayesian approach is quite nature to identify a suitable uncertainty range for the market parameters $\mu$, $\Sigma$ (location-dispersion ellipsoid of the posterior distribution)
 
 
-![image text](http://github.com/rickylee318/Robust_Bayesian_Allocation/raw/master/bay_robust_alloc.jpg)
+![](bay_robust_alloc.jpg)
